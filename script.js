@@ -86,4 +86,3 @@ function renderPlaces(places) {
         scene.appendChild(model);
     });
 }
-view rawscript.js hosted with ❤ by GitHub
